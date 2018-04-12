@@ -1,0 +1,16 @@
+{
+  "name": "darksky",
+  "version": "1.0.0",
+  "description": "retriver for weather data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mark Bogataj",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "sync-request": "^4.1.0"
+  }
+}
